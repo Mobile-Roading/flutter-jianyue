@@ -49,10 +49,10 @@ Channel stable, 2.5.2
 
 
 更多文章更新在公众号：flutter_toto
-[flutter_toto](https://s2.loli.net/2022/12/12/EWvyFX2LgiaeZ3d.jpg)
+![](https://s2.loli.net/2022/12/12/EWvyFX2LgiaeZ3d.jpg)
 
 
-*学习交流分享TG：[flutter_todo](https://t.me/flutter_toto)*
+*学习交流分享：[TG](https://t.me/flutter_toto)*
 
 
 
