@@ -47,7 +47,7 @@ Channel stable, 2.5.2
 | ![451658286370_.pic](https://s2.loli.net/2022/07/20/ubAprcSdTe6n3Va.jpg) | ![401658286368_.pic](https://s2.loli.net/2022/07/20/cyYZJeTDlzHtFPn.jpg) |
 | ![471658286375_.pic](https://s2.loli.net/2022/07/20/eSNH1o3WBYqEzK5.jpg) |                                                              |
 
-*学习交流分享TG：[flutter_todo](https://t.me/+gew6dzI1rQ9iYjA1)*
+*学习交流分享TG：[flutter_todo](https://t.me/flutter_toto)*
 
 感谢所有的同类的开源项目，下面几个参考比较多的或者在项目里面有用到的：
 
