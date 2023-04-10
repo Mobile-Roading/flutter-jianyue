@@ -31,13 +31,8 @@ dependencies:
   audioplayers: ^0.19.0
   crypto: ^3.0.1
   crypt: ^4.2.1
-  cipher2: #0.3.0
-    path: /Users/yunxi/Desktop/workspace/cipher2
-  cipher2_mac:
-    path: /Users/yunxi/Desktop/workspace/cipher2_mac
-#  encrypt: ^5.0.1
-#  ninja: ^3.0.6
-#  aes_crypt: ^0.1.0
+  encrypt: ^5.0.1
+
   intl: ^0.17.0
   sqflite: ^2.0.2 # 数据库
   shared_preferences: ^2.0.13
